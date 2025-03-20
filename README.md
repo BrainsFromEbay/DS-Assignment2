@@ -12,3 +12,8 @@ You are prompted with 3 different options on the client terminal:
 3. Exit.
 
 You can execute these by typing in the corresponding number.
+
+Declaration of AI Usage:
+
+AI (ChatGPT) was used to learn about XML formatting. I had troubles with formatting the XML with correct 
+nesting etc, so I asked how it could be formatted.
